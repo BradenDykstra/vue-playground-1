@@ -7,13 +7,14 @@
                     <p>Write a math equation Vue can evaluate.</p>
 
                     <p> {{
-                        <!-- Add your code inside the curlies --> }}</p>
+                        4 * 99999999999999999999 }}
+                    </p>
                 </div>
                 <div class="border p-1">
                     <p>Use interpolation to get the customary Hello, World! to display on the screen. Don't
                         forget your quotes</p>
                     <p> {{
-                        <!-- Add your code inside the curlies --> }}</p>
+                        "HELLO WORLD" }}</p>
                 </div>
             </div>
         </div>
